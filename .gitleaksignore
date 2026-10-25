@@ -1,0 +1,4 @@
+# False positives for the privacy pre-commit scan (gitleaks fingerprints).
+# npm registry "deprecated" notice for glob 11.x carries the package maintainer's
+# public contact address; it is registry metadata, not project data.
+todo-vite/package-lock.json:email-address:3519
